@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Components/Button Base 1`] = `
+<button
+  className="wrapper"
+  disabled={false}
+  onClick={[Function]}
+>
+  Primary
+</button>
+`;
+
+exports[`Storyshots Components/Button Dark Mode 1`] = `
+<button
+  className="wrapper"
+  disabled={false}
+  onClick={[Function]}
+>
+  Dark mode
+</button>
+`;
+
+exports[`Storyshots Components/Button Disabled 1`] = `
+<button
+  className="wrapper"
+  disabled={true}
+  onClick={[Function]}
+>
+  Disabled
+</button>
+`;
